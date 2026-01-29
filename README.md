@@ -292,14 +292,3 @@ collection of awesome Telegram bots
 - [teldrive](https://github.com/divyam234/teldrive) - Telegram Drive is a powerful utility that enables you to create your own cloud storage service using Telegram as the backend.
 
 - [Watgbridge](https://github.com/akshettrj/watgbridge) - A forwarder from WhatsApp to Telegram written in GoLang
-
-
-### ###  Contribution 💝
-
-➡️ Your contributions and suggestions are always welcome !! Feel free to add more bots links and sources by making a pull request or adding an issue. 
-
-****Please use the below format for your commits**** : 
-
-- Add language & Provide URL to the repo on GitHub. Don't share direct bot.
-
-➡️ ️Example : Gemini - https://github.com/... [Python]
